@@ -1,0 +1,93 @@
+html {
+  width: 45em;
+  margin: 180px auto;
+  font-family: sans-serif;
+}
+
+body {
+  background-color: #66CDFD;
+}
+
+h1 {color:#FFFFFF}
+p {color:#FFFFFF}
+table {
+  border-collapse: collapse;
+  border: 5px solid rgb(200,200,200);
+  letter-spacing: 1px;
+  font-size: 0.8rem;
+}
+
+td, th {
+  border: 1px solid rgb(190,190,190);
+  padding: 10px 20px;
+}
+
+th {
+  background-color: rgb(235,235,235);
+}
+
+td {
+  text-align: center;
+  background-color: DCDCDC;
+}
+
+.MP08
+{
+  background-color: #6D88F6;
+}
+.MP10
+{
+  background-color: #66FA80;
+}
+.MP04
+{
+  background-color: #F095F8;
+}
+.MP07
+{
+  background-color: #F8F195;
+}
+.MP12
+{
+  background-color: #FF8787;
+}
+.MP06
+{
+  background-color: #87FFFE;
+}
+.MP12
+{
+  background-color: #D1CCD1;
+}
+.T
+{
+  background-color: #F85050;
+}
+.td
+{
+  background-color: #EFEFEF;
+}
+.tp
+{
+  background-color: #31FF00;
+}
+.tx
+{
+  background-color: #9CF986;
+}
+.tz
+{
+  background-color: #C8FABD;
+}
+
+/*tr:nth-child(even) td {
+  background-color: rgb(250,250,250);
+}
+
+tr:nth-child(odd) td {
+  background-color: rgb(245,245,245);
+}*/
+
+caption {
+  padding: 10px;
+}
